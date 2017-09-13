@@ -1,0 +1,29 @@
+Christopher Torralba
+
+Problem 1
+1. foo
+2. bar
+3. bar
+   baz
+   it adds a new line containing baz
+
+Problem 2
+1. it lists files in my directory, such as my username, dates I have accessed
+these files, etc., doesn't show hiddn files
+2. it does all things said above, but includes hidden files, and directories
+from my current one.
+3. it would remove files from it and subdirectories including
+write-protected files.
+
+Problem 3
+1. man passwd shows how passwd works, containing the name, description, and
+a synopsis for it.
+2. man 5 passwd
+3. $HOME, $USER, $SHELL, $PATH, $LOGNAME, $MAIL
+
+Problem 4
+2. ./a.out < cowStory.txt > output.txt
+3. The program ends
+
+Problem 5
+2. zip lab2.zip cowStory.cpp cowStory.txt lab2.txt output.txt
